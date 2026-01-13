@@ -1,0 +1,1 @@
+print("I am going to BUY The LAMBORGHINI in 2030 for SURE!")
